@@ -4,10 +4,12 @@
 }
 
 h1 {
-    color: red;
-    font-size: 24px;
+    color: rgb(122, 38, 233);
+    font-size: 44px;
 }
 
 .footer {
     text-align: center;
+    color: aqua;
+    font-weight: 700;
 }
